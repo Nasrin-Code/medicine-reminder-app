@@ -1,0 +1,88 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #fff8f0;
+}
+h1{
+    color: #ff6f00;
+}
+h3{
+    color: #e65100;
+}
+input{
+    padding: 8px;
+    margin: 5px;
+    border: 2px solid #ffb74d;
+    border-radius: 5px;
+}
+button{
+    padding: 10px 15px;
+    background-color: #ff6f00;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #e65100;
+}
+a{
+    color: #d84315;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    color: #bf360c;
+}
+p{
+    background-color: #ffe0b2;
+    padding: 10px;
+    border-radius: 5px;
+    width: fit-content;
+}
+.medicine-card{background: white;
+               border: 2px solid #39c12;
+               border-left: 8px solid #e67e22;
+               border-radius: 18px;
+               padding: 20px;
+               margin-bottom: 20px;
+               box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+             }
+.medicine-card p{margin: 0;
+                font-size: 28px;
+                color: #e67e22;
+                font-weight: bold;
+}
+.medicine-card span{color: #555;
+                    font-size: 22px;
+                    font-weight: normal;
+}
+.medicine-card .actions{margin-top:15px;
+}
+.medicine-card .actions a{text-decoration: none;
+                          color: #e67e22;
+                          font-weight: bold;
+                          margin-right: 20px;
+                          font-size: 18px;
+}
+.taken-card{background: #d4edda;
+            border-left: 5px solid green;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 10px;
+}
+form{background: white;
+     padding: 20px;
+     border-radius: 15px;
+     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+     width: 400px;
+}
+button{background: #e67e22;
+       color: white;
+       border: none;
+       padding: 10px 15px;
+       border-radius: 5px
+}
+h1{
+    color: #e67e22;
+}
