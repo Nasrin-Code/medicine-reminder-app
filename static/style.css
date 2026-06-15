@@ -86,3 +86,18 @@ button{background: #e67e22;
 h1{
     color: #e67e22;
 }
+body{display: flex;
+     justify-content: center;
+     align-items: flex-start;
+     min-height: 100vh;
+     background-color: #fff7f2;
+}
+.container{width: 90%;
+           max-width: 700px;
+           margin: 30px auto;
+           background: white;
+           padding: 30px;
+           border-radius: 15px;
+           box-shadow: 0 4px 15px rgpa(0,0,0,0.1);
+
+}
