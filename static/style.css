@@ -86,11 +86,11 @@ button{background: #e67e22;
 h1{
     color: #e67e22;
 }
-body{display: flex;
-     justify-content: center;
-     align-items: flex-start;
-     min-height: 100vh;
+body{
      background-color: #fff7f2;
+     font-family: Arial, sans-serif;
+     margin: 0;
+     padding: 20px;
 }
 .container{width: 90%;
            max-width: 700px;
